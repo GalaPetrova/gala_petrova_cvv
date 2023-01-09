@@ -5,7 +5,7 @@
 
 ## Яндекс Практикум
 Тема спринта: преобработка данных
-**[Исследование надёжности заёмщиков]**(https://github.com/GalaPetrova/gala_petrova_cvv/blob/main/02_data_preprocessing.ipynb)  
+[**Исследование надёжности заёмщиков**](https://github.com/GalaPetrova/gala_petrova_cvv/blob/main/02_data_preprocessing.ipynb)  
 Сделана предобработка данных на материале банковских данных о платежеспособности клиентов.  
 
 Тема спринта: исследовательский анализ данных  
